@@ -6,6 +6,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-lightblue)
+![NumPy](https://img.shields.io/badge/Library-NumPy-lightblue)
+
 
 ## Project Overview
 
