@@ -35,7 +35,6 @@ The main objectives of this Exploratory Data Analysis (EDA) were to:
 - [Conclusions](#conclusions)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Introduction
 
