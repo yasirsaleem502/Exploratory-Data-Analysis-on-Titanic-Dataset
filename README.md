@@ -7,6 +7,7 @@
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-lightblue)
 ![NumPy](https://img.shields.io/badge/Library-NumPy-lightblue)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange)
 
 
 ## Project Overview
