@@ -1,7 +1,7 @@
 
 # Exploratory Data Analysis on Titanic Dataset
 
-![Titanic](https://www.kaggle.com/datasets/muhammadyasirsaleem/website)
+![Titanic](https://img.shields.io/badge/dataset-Titanic-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
