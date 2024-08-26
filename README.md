@@ -95,7 +95,7 @@ To run the analysis on your local machine:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/titanic-eda.git
+    git clone https://github.com/yasirsaleem502/Exploratory-Data-Analysis-on-Titanic-Dataset.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -107,7 +107,7 @@ To run the analysis on your local machine:
     ```
 4. Open the Jupyter Notebook:
     ```bash
-    jupyter notebook Titanic_EDA.ipynb
+    jupyter notebook Exploratory-Data-Analysis-on-Titanic-Dataset.git
     ```
 
 ## Dependencies
