@@ -14,6 +14,15 @@
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on the famous Titanic dataset. The goal is to uncover insights about the passengers on the Titanic, the factors that influenced survival rates, and the relationships between different features. The analysis lays the foundation for building predictive models to predict passenger survival.
 
+# Objective
+The main objectives of this EDA were to:
+
+--  Understand the distribution of various features such as age, gender, and class of passengers.
+-- Identify correlations between different features and the survival rate.
+-- Detect and handle missing data.
+-- Visualize data to uncover trends and patterns.
+-- Could you prepare the data for further machine-learning tasks?
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -28,7 +37,8 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the famous 
 
 ## Introduction
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history. In this project, we analyze the dataset of passengers aboard the Titanic to understand the factors that led to survival. This analysis involves data cleaning, feature engineering, and extensive visualizations to extract meaningful insights.
+The Titanic dataset is a classic problem often used in data science and machine learning projects to explore data and practice predictive modelling techniques. The dataset provides information on the passengers aboard the RMS Titanic, which sank on April 15, 1912. The primary objective of this case study was to perform an in-depth Exploratory Data Analysis (EDA) to understand the underlying patterns, relationships, and trends in the data. This EDA laid the groundwork for building predictive models and extracting valuable insights.
+
 
 ## Dataset Description
 
